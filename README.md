@@ -1,10 +1,10 @@
 # ITGC Audit – SwiftTel Nigeria (Telecommunications)
 
-*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or open-sourced.*
+*This project reflects the type of work I support in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or sourced from open-source resources.*
 
 ---
 
-Led an Information Technology General Controls (ITGC) [audit](https://drive.google.com/drive/folders/1UgjnSuxPiqI6DkHrdp2rbvMe2di0buD7?usp=sharing) for a telecommunications provider operating critical network infrastructure, subscriber billing platforms, and customer-facing applications. The assessment evaluated controls across five domains—**Access Control, Backup & Recovery, Change Management, IT Operations, and Program Development & Acquisition**—against industry standards and Nigerian Communications Commission (NCC) requirements to determine the effectiveness of the IT control environment supporting core telecom systems.
+Supported an Information Technology General Controls (ITGC) [audit](https://drive.google.com/drive/folders/1UgjnSuxPiqI6DkHrdp2rbvMe2di0buD7?usp=sharing) for a telecommunications provider operating critical network infrastructure, subscriber billing platforms, and customer-facing applications. The assessment evaluated controls across five domains—**Access Control, Backup & Recovery, Change Management, IT Operations, and Program Development & Acquisition**—against industry standards and Nigerian Communications Commission (NCC) requirements to determine the effectiveness of the IT control environment supporting core telecom systems.
 
 ---
 
